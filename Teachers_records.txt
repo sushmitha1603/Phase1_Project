@@ -1,0 +1,8 @@
+1,Sushmitha,10,A
+2,Varshini,9,B
+3,Bharath,8,C
+4,Sanjana,10,B
+5,Arjun,7,B
+6,Priya,9,C
+7,ronith,10,C
+
